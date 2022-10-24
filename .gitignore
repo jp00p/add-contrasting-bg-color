@@ -1,5 +1,5 @@
-./input_images/*.png
-./output_images/*.jpg
+input_images/*
+output_images/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
