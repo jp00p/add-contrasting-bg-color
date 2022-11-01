@@ -2,9 +2,9 @@
  takes a batch of transparent PNG images, upscales them to 512x512 using nearest neighbor, and adds a random background color
 
 ## instructions
-- put your images in `input_files`
+- put your images in `input_images`
 - run the script by typing `python main.py` in your terminal, or however you prefer
-- enjoy the new images in `output_files`
+- enjoy the new images in `output_images`
 
 
 Example input             |  Example output
