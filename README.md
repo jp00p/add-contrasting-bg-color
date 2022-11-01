@@ -1,9 +1,9 @@
 # add-contasting-bg-color
- takes a batch of transparent PNG images, finds the dominant color and adds the inverse of that color as a background
+ takes a batch of transparent PNG images, upscales them to 512x512 using nearest neighbor, and adds a random background color
 
 ## instructions
 - put your images in `input_files`
-- run the script via `python main.py` or however you like
+- run the script by typing `python main.py` in your terminal, or however you prefer
 - enjoy the new images in `output_files`
 
 
