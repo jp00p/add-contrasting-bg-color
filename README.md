@@ -1,4 +1,4 @@
-# add-contasting-bg-color
+# add-contrasting-bg-color
  takes a batch of transparent PNG images, upscales them to 512x512 using nearest neighbor, and adds a random background color
 
 ## instructions
